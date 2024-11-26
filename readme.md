@@ -1,1 +1,1 @@
- Implementation of a video Vision Transformer in Pytorch
+ Implementation of a Video Vision Transformer in Pytorch
